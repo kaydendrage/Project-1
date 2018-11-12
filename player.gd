@@ -54,3 +54,4 @@ func _physics_process(delta):
 	
 	# make the move
 	position += velocity
+	
